@@ -17,16 +17,18 @@ In order to use this application the User must open a terminal and type "mysql -
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Image
-![screenshot](https://github.com/Mannyalfa/startifacts-group-project/blob/master/public/assets/images/Screenshot.jpg)
+![screenshot](https://github.com/Mannyalfa/Startifacts/blob/main/public/assets/images/Screenshot.jpg)
 
-![screenshot](https://github.com/Mannyalfa/startifacts-group-project/blob/master/public/assets/images/screenshot-login.jpg)
+![screenshot](https://github.com/Mannyalfa/Startifacts/blob/main/public/assets/images/screenshot-login.jpg)
 
-![screenshot](https://github.com/Mannyalfa/startifacts-group-project/blob/master/public/assets/images/screenshot-shop.jpg)
+![screenshot](https://github.com/Mannyalfa/Startifacts/blob/main/public/assets/images/screenshot-shop.jpg)
+
+![screenshot](https://github.com/Mannyalfa/Startifacts/blob/main/public/assets/images/responsive-page.jpg)
 
 ## Languages/Applications
 The various libraries and languages used include Handlebars.js, MySQL, Sequelize, Node.js, and Express.js.
 ## Repository 
-https://github.com/AnthonySzymczak/Startifacts
+https://github.com/Mannyalfa/Startifacts
 ## Website
 https://startifacts.herokuapp.com/ 
 ## Credits
